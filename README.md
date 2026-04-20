@@ -1,0 +1,2 @@
+# NOBO.samplesize.simulations
+R and JAGs code for running simulations to estimate the necessary minimum sample sizes for detecting treatment effects on survival or per-capita productivity (chicks/female) of northern bobwhite (Colinus virginianus). From Lewis, W. B., and J. A. Martin. Estimating necessary sample sizes for detecting treatment effects on annual survival and per-capita productivity of northern bobwhite (Colinus virginianus).
