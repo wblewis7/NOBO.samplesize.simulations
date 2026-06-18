@@ -1,8 +1,7 @@
 # Simulation code for assessing necessary minimum sample sizes to detect a treatment
 #   effect on annual survival of northern bobwhite (Colinus virginianus). From 
-#   Lewis, W. B., and J. A. Martin. 2026. Estimating necessary minimum sample sizes
-#   for detecting treatment effects on annual survival and per-capita productivity 
-#   of northern bobwhite (Colinus virginianus).
+#   Lewis, W. B., and J. A. Martin. 2026. Estimating statistical power for detecting 
+#   treatment effects on northern bobwhite (Colinus virginianus) vital rates.
 
 # We use data simulations to assess statistical power for detecting a significant treatment
 #   effect on survival between a control and treatment group. Simulations vary in terms
